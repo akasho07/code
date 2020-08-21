@@ -1,0 +1,43 @@
+.pg{
+    border:10px groove red;
+    border-radius: 1000%;
+    width: 120px;
+    display:inline-block;
+}.cg{
+    border:10px dashed green;
+    border-radius: 1000%;
+    width: 120px;
+    display:inline-block;
+}.dg{
+    border:10px dashed deeppink;
+    border-radius: 1000%;
+    width: 120px;
+    display:inline-block;
+}
+ img{
+     margin-right: 5px;
+     padding: 10px;
+     border-radius: 100%;
+ }
+h1{
+    font-family: cursive;
+    color: lawngreen;
+}
+div{
+    display: block;
+}
+.one{
+    height: 100px;
+    background-color: red;
+    border: 4px groove yellowgreen;
+}
+.two{
+    height: 100px;
+    background-color: deeppink;
+    border: 4px dashed yellowgreen;
+}
+.three{
+    height: 100px;
+    background-color: yellow;
+    border: 4px groove yellowgreen;
+}
